@@ -1,0 +1,52 @@
+.PhoneInputCountryIconImg {
+  width: 10%;
+  margin-right: 10px;
+  border-radius: 3px;
+}
+
+.PhoneInputCountrySelect {
+  width: 25%;
+  height: 21px;
+  margin-right: 10px;
+  float: left;
+  border-radius: 3px;
+  border: 0.1px solid rgba(0, 0, 0, 0.3);
+}
+
+.PhoneInputCountry {
+  margin-top: 15px;
+  position: relative;
+  display: inline-block;
+}
+
+.PhoneInputInput {
+  display: flex;
+  width: 94%;
+  height: 35px;
+  border-radius: 5px;
+  border: 0.1px solid rgba(0, 0, 0, 0.3);
+  margin-bottom: 7px;
+  padding: 9px 13px;
+  color: #603601;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.PhoneInputInput::placeholder {
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 1rem;
+  font-weight: 400;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  transform-origin: top left;
+}
+
+.PhoneInputInput:focus {
+  outline: none;
+  box-shadow: none;
+  border: 2px solid rgb(6, 108, 226);
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  color: #603601 !important;
+  font-weight: 500 !important;
+}

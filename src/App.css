@@ -1,0 +1,59 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* Body background color */
+body {
+  background-color: rgba(106, 106, 235, 0.1);
+}
+
+/* Text color */
+h1,
+p {
+  color: #333;
+}
+
+/* Custom color classes */
+.primary-color {
+  color: blue;
+}
+
+.secondary-color {
+  color: green;
+}
+
+.background-color {
+  background-color: yellow;
+}
+
+/* Button color */
+.button {
+  background-color: #ff0000;
+  color: #fff;
+}
+
+/* Link color */
+a {
+  color: #0066cc;
+}
+
+/* For Navbar */
+
+.nav-menu-icon {
+  width: 35px;
+  height: 35px;
+}
+
+.nav-menu-icon {
+  display: none;
+}
+
+@media (max-width: 800px) {
+  .nav-menu-icon {
+    display: block;
+  }
+  .nav-menu-list {
+    display: none;
+  }
+}

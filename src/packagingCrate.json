@@ -1,0 +1,57 @@
+[
+    {
+      "prod-name": "BROWN POLISHED WOODEN CRATE",
+      "image-url": "https://5.imimg.com/data5/SELLER/Default/2023/4/303437757/JJ/CG/HK/15788247/a-2--500x500.jpeg",
+      "more-images": {
+        "image1": "https://5.imimg.com/data5/SELLER/Default/2023/4/303437757/JJ/CG/HK/15788247/a-2--500x500.jpeg",
+        "image2": "https://5.imimg.com/data5/SELLER/Default/2023/4/303438374/YO/QY/OI/15788247/brown-polished-wooden-crate-500x500.jpg",
+        "image3": "https://5.imimg.com/data5/SELLER/Default/2023/4/303438045/VG/HG/SN/15788247/brown-polished-wooden-crate-500x500.jpg"
+      },
+      "Size(mm)": "1300 mm X 1000 mm",
+      "Color": "Brown",
+      "Usage/Application": "Electrical Appliances",
+      "Entry Type": "Open",
+      "Storing Product": "Automobile Parts",
+      "Capacity": "15Kg",
+      "Shape": "Rectangular"
+    },
+    {
+      "prod-name": "RECTANGULAR WOODEN FLAT CRATE",
+      "image-url": "https://5.imimg.com/data5/SELLER/Default/2023/4/303441606/ND/FW/DJ/15788247/rectangular-wooden-flat-crate-500x500.jpg",
+      "more-images": {
+        "image1": "https://5.imimg.com/data5/SELLER/Default/2023/4/303441606/ND/FW/DJ/15788247/rectangular-wooden-flat-crate-500x500.jpg",
+        "image2": "https://5.imimg.com/data5/SELLER/Default/2023/4/303441659/YB/IY/TE/15788247/rectangular-flat-crate-500x500.jpeg",
+        "image3": "https://5.imimg.com/data5/SELLER/Default/2023/4/303441902/WW/DX/YW/15788247/rectangular-wooden-flat-crate-500x500.jpg"
+      },
+      "Size(mm)": "1300 mm X 1000 mm",
+      "Color": "Red",
+      "Usage/Application": "Home Appliances",
+      "Entry Type": "Closed",
+      "Storing Product": "Parts",
+      "Capacity": "15Kg",
+      "Shape": "Rectangular"
+    },
+    {
+      "prod-name": "SQUARE WOODEN PACKAGING CRATE",
+      "image-url": "https://5.imimg.com/data5/SELLER/Default/2023/4/301613802/GH/YU/HY/15788247/rectangular-wooden-crate-500x500.jpeg",
+      "Size(mm)": "1300 mm X 1000 mm",
+      "Color": "Red",
+      "Usage/Application": "Home Appliances",
+      "Entry Type": "Closed",
+      "Storing Product": "Parts",
+      "Capacity": "15Kg",
+      "Shape": "Rectangular"
+    },
+    {
+      "prod-name": "WOODEN BROWN RECTANGULAR CRATE",
+      "image-url": "https://5.imimg.com/data5/SELLER/Default/2023/4/303468893/UE/OG/WJ/15788247/brown-rectangular-wooden-crate-500x500.jpg",
+      "Size(mm)": "1300 mm X 1000 mm",
+      "Color": "Red",
+      "Usage/Application": "Home Appliances",
+      "Entry Type": "Closed",
+      "Storing Product": "Parts",
+      "Capacity": "15Kg",
+      "Shape": "Rectangular"
+    }
+  ]
+  

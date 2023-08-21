@@ -1,0 +1,64 @@
+{
+    "palletProducts": [
+      {
+        "key": "https://5.imimg.com/data5/SELLER/Default/2023/4/303436159/CW/FC/FL/15788247/polished-wooden-pallete-250x250.jpeg",
+        "value": "POLISHED WOODEN PALLET"
+      },
+      {
+        "key": "https://5.imimg.com/data5/SELLER/Default/2023/4/303435179/QR/NA/KV/15788247/square-two-way-wooden-pallet-250x250.jpg",
+        "value": "SQUARE TWO WAY WOODEN PALLET"
+      },
+      {
+        "key": "https://5.imimg.com/data5/SELLER/Default/2023/4/303434851/LG/EY/WX/15788247/rectangular-four-way-wooden-pallete-250x250.jpg",
+        "value": "RECTANGULAR FOUR WAY WOODEN PALLETE"
+      },
+      {
+        "key": "https://5.imimg.com/data5/SELLER/Default/2023/4/303435707/CI/VB/GB/15788247/brown-rectangular-plywood-pallet-250x250.jpg",
+        "value": "BROWN RECTANGULAR PLYWOOD PALLET"
+      },
+      {
+        "key": "https://5.imimg.com/data5/SELLER/Default/2023/4/303436920/EE/JU/CJ/15788247/square-brown-wooden-pallet-250x250.jpg",
+        "value": "SQUARE BROWN WOODEN PALLET"
+      }
+    ],
+    "crateProducts": [
+      {
+        "key": "https://5.imimg.com/data5/SELLER/Default/2023/4/303437757/JJ/CG/HK/15788247/a-2--250x250.jpeg",
+        "value": "BROWN POLISHED WOODEN CRATE"
+      },
+      {
+        "key": "https://5.imimg.com/data5/SELLER/Default/2023/4/303441606/ND/FW/DJ/15788247/rectangular-wooden-flat-crate-250x250.jpg",
+        "value": "RECTANGULAR WOODEN FLAT CRATE"
+      },
+      {
+        "key": "https://5.imimg.com/data5/SELLER/Default/2023/4/301613802/GH/YU/HY/15788247/rectangular-wooden-crate-250x250.jpeg",
+        "value": "SQUARE WOODEN PACKAGING CRATE"
+      },
+      {
+        "key": "https://5.imimg.com/data5/SELLER/Default/2023/4/303468893/UE/OG/WJ/15788247/brown-rectangular-wooden-crate-250x250.jpg",
+        "value": "WOODEN BROWN RECTANGULAR CRATE"
+      }
+    ],
+    "boxProducts": [
+      {
+        "key": "https://5.imimg.com/data5/SELLER/Default/2023/4/303439173/IF/JL/OL/15788247/rectangular-industrial-packaging-wooden-box-250x250.jpg",
+        "value": "RECTANGULAR INDUSTRIAL PACKAGING WOODEN BOX"
+      },
+      {
+        "key": "https://5.imimg.com/data5/SELLER/Default/2023/4/303440254/HE/FK/AI/15788247/brown-rectangular-wooden-box-250x250.jpg",
+        "value": "WOODEN BROWN RECTANGULAR BOX"
+      },
+      {
+        "key": "https://5.imimg.com/data5/SELLER/Default/2023/4/303441049/HV/CB/IG/15788247/cubical-wooden-packaging-box-250x250.jpg",
+        "value": "CUBICAL WOODEN PACKAGING BOX"
+      },
+      {
+        "key": "https://5.imimg.com/data5/SELLER/Default/2023/4/301613802/GH/YU/HY/15788247/rectangular-wooden-crate-250x250.jpeg",
+        "value": "SQUARE WOODEN PACKAGING CRATE"
+      },
+      {
+        "key": "https://5.imimg.com/data5/SELLER/Default/2023/4/303438792/UE/RB/WG/15788247/rectangular-wooden-packaging-box-250x250.jpg",
+        "value": "RECTANGULAR WOODEN PACKAGING BOX"
+      }
+    ]
+  }
