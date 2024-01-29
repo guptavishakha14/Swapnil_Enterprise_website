@@ -19,17 +19,17 @@ const homePage = () => {
           <Button
             variant="contained"
             sx={{
-              marginTop: "50px",
-              marginLeft: "700px",
+              marginTop: "2%",
+              marginLeft: "45%",
               height: "50px",
               width: "150px",
-              backgroundColor: "#FCF8E8",
+              backgroundColor: "#FCF8E8 !important",
               color: "#603601",
               fontWeight: "bold",
               fontSize: "15px",
               borderRadius: "10px",
               "&:hover": {
-                backgroundColor: "#D7A86E",
+                backgroundColor: "#D7A86E !important",
               },
             }}
           >
