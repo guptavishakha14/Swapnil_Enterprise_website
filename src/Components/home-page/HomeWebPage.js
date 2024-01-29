@@ -23,13 +23,13 @@ const homePage = () => {
               marginLeft: "45%",
               height: "50px",
               width: "150px",
-              backgroundColor: "#FCF8E8 !important",
+              backgroundColor: "#FCF8E8",
               color: "#603601",
               fontWeight: "bold",
               fontSize: "15px",
               borderRadius: "10px",
               "&:hover": {
-                backgroundColor: "#D7A86E !important",
+                backgroundColor: "#D7A86E",
               },
             }}
           >

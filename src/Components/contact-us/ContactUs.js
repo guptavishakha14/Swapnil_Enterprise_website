@@ -36,6 +36,7 @@ export default function ContactForm() {
           alignItems: "center",
           justifyContent: "center",
           height: "100vh",
+          marginTop: "3%",
         }}
       >
         <Box
@@ -43,7 +44,7 @@ export default function ContactForm() {
             display: "flex",
             flexDirection: "column",
             alignItems: "center",
-            maxWidth: 600,
+            maxWidth: "600px",
             mx: "auto",
             p: 4,
             // border: "2px solid #603601",
@@ -125,7 +126,7 @@ export default function ContactForm() {
           </form>
         </Box>
       </Box>
-      <div style={{ marginBottom: "50px" }}></div>
+      <div style={{ marginBottom: "80px" }}></div>
       <Footer />
     </div>
   );
